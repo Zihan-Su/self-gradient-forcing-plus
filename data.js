@@ -36,13 +36,13 @@ const CASES = [
     "selection_number": 17
   },
   {
-    "key": "chunkwise_240s_018",
+    "key": "chunkwise_240s_063",
     "mode": "chunkwise",
     "seconds": 240,
-    "prompt": "Realistic Japanese manga-style digital painting, a young woman with long black hair in a traditional kimono adorned with intricate floral patterns and a neat obi sash sits quietly inside a moving train. She gazes out the window with a contemplative, serene expression, her reflection softly captured on the glass. Outside, the Tokyo suburbs rush by—lush green fields, dense forests, and distant cherry blossoms blend into vivid streaks of emerald, brown, and gold. Faint outlines of skyscrapers peek through the horizon. The dimly lit cabin features warm wooden seats with soft shadows, enhancing the quiet mood. Medium shot, slightly tilted angle, emphasizing the interplay between reflection, motion, and stillness.",
-    "title": "A train journey",
-    "description": "A woman in a floral kimono sits inside a moving train.",
-    "selection_number": 1
+    "prompt": "Romantic-style oil painting of a young woman in a flowing floral dress standing joyfully in a lush spring garden, surrounded by blooming roses, tulips, and daisies. Her hair is loosely tied with wildflowers, soft breeze gently swaying petals and strands of hair. Serene expression with a gentle smile, framed by vibrant blooms under a pastel sky with fluffy clouds. Medium shot, slightly tilted angle, capturing renewal and natural beauty.",
+    "title": "A garden in bloom",
+    "description": "A woman stands among spring flowers in an oil-painted garden.",
+    "selection_number": 7
   },
   {
     "key": "chunkwise_240s_037",
@@ -54,13 +54,13 @@ const CASES = [
     "selection_number": 5
   },
   {
-    "key": "chunkwise_240s_063",
+    "key": "chunkwise_240s_018",
     "mode": "chunkwise",
     "seconds": 240,
-    "prompt": "Romantic-style oil painting of a young woman in a flowing floral dress standing joyfully in a lush spring garden, surrounded by blooming roses, tulips, and daisies. Her hair is loosely tied with wildflowers, soft breeze gently swaying petals and strands of hair. Serene expression with a gentle smile, framed by vibrant blooms under a pastel sky with fluffy clouds. Medium shot, slightly tilted angle, capturing renewal and natural beauty.",
-    "title": "A garden in bloom",
-    "description": "A woman stands among spring flowers in an oil-painted garden.",
-    "selection_number": 7
+    "prompt": "Realistic Japanese manga-style digital painting, a young woman with long black hair in a traditional kimono adorned with intricate floral patterns and a neat obi sash sits quietly inside a moving train. She gazes out the window with a contemplative, serene expression, her reflection softly captured on the glass. Outside, the Tokyo suburbs rush by—lush green fields, dense forests, and distant cherry blossoms blend into vivid streaks of emerald, brown, and gold. Faint outlines of skyscrapers peek through the horizon. The dimly lit cabin features warm wooden seats with soft shadows, enhancing the quiet mood. Medium shot, slightly tilted angle, emphasizing the interplay between reflection, motion, and stillness.",
+    "title": "A train journey",
+    "description": "A woman in a floral kimono sits inside a moving train.",
+    "selection_number": 1
   },
   {
     "key": "chunkwise_240s_050",
