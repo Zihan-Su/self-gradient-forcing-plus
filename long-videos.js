@@ -5,9 +5,9 @@ const LONG_VIDEO_CONFIG = {
  source: 'https://echo-team-joy-future-academy-jd.github.io/Echo-Infinity/',
  cases: [
   {preview:false,mode:'Chunkwise',title:'White Cat in a Basket',poster:'assets/images/white-cat.jpg',parts:['4UKioNees9s','4h0mJnKlYoo']},
-  {preview:false,mode:'Chunkwise',title:'Surfing Otter',poster:'assets/images/surfing-otter.jpg',parts:['dEWoXP-Tz6M','SLr4aVOl5QY']},
-  {preview:false,mode:'Framewise',title:'Morning Beach',poster:'assets/images/morning-beach.jpg',parts:['QZW-3nGWDq0','QR93aWB1-CM']},
   {preview:false,mode:'Framewise',title:'Gwen Reading',poster:'assets/images/gwen-reading.jpg',parts:['GffPMBcc_wY','NkPzTcwWr5M']},
+  {preview:false,mode:'Framewise',title:'Morning Beach',poster:'assets/images/morning-beach.jpg',parts:['QZW-3nGWDq0','QR93aWB1-CM']},
+  {preview:false,mode:'Chunkwise',title:'Surfing Otter',poster:'assets/images/surfing-otter.jpg',parts:['dEWoXP-Tz6M','SLr4aVOl5QY']},
   {uploading:true,mode:'Framewise',title:'Flower Coast',poster:'assets/images/flower-coast-hq.jpg',parts:[]},
   {uploading:true,mode:'Chunkwise',title:'Willow Reflections',poster:'assets/images/willow-reflections.jpg',parts:[]}
  ]
