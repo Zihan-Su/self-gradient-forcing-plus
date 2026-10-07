@@ -7,7 +7,7 @@ const LONG_VIDEO_CONFIG = {
   {preview:false,mode:'Chunkwise',title:'White Cat in a Basket',poster:'assets/images/white-cat.jpg',parts:['4UKioNees9s','4h0mJnKlYoo']},
   {preview:false,mode:'Framewise',title:'Gwen Reading',poster:'assets/images/gwen-reading.jpg',parts:['GffPMBcc_wY','NkPzTcwWr5M']},
   {preview:false,mode:'Framewise',title:'Morning Beach',poster:'assets/images/morning-beach.jpg',parts:['QZW-3nGWDq0','QR93aWB1-CM']},
-  {uploading:true,mode:'Framewise',title:'Flower Coast',poster:'assets/images/flower-coast-hq.jpg',parts:[]},
+  {preview:false,mode:'Framewise',title:'Flower Coast',poster:'assets/images/flower-coast-hq.jpg',parts:['5_AOcO0pNUo','APsKq5MSbyM']},
   {preview:false,mode:'Chunkwise',title:'Surfing Otter',poster:'assets/images/surfing-otter.jpg',parts:['dEWoXP-Tz6M','SLr4aVOl5QY']},
   {preview:false,mode:'Chunkwise',title:'Willow Reflections',poster:'assets/images/willow-reflections.jpg',parts:['tkaHlco7A-4','isFvf2k4Acw']}
  ]
